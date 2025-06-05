@@ -78,4 +78,7 @@ En cuanto al sesgo o bias primero recordemos lo que es una línea recta: y = mx 
 
 ## fuentes
 [Historia de la ia](https://telefonicatech.com/blog/historia-de-la-ia-frank-rosenblatt-y-e)
+
 [IMB 704](https://www.linkedin.com/pulse/el-ibm-704-un-hito-en-la-historia-de-computaci%C3%B3n-william-montilla-cqecf/)
+
+[El Perceptrón a detalle](https://www.youtube.com/watch?v=DvbA-ZLxve8)
