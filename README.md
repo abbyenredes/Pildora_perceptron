@@ -20,7 +20,7 @@ La neurona adquiere informacion en las conexiones denominadas dendritas, las den
 ![perceptrón](https://media.telefonicatech.com/telefonicatech/uploads/2021/1/1692_Capturadepantalla2018-07-19alas12.45.09.png)
 Simple ¿verdad?, el perceptrón que propone Rosenbatt no es tan distinto a lo que acabas de leer.
 
-* **Entrada**: Las entradas en el algoritmo del perceptrón se entienden como x1, x2, x3, x4 y así sucesivamente. Todas estas entradas denotan los valores del perceptrón de características y la ocurrencia total de las características.
+* **Entrada**: El input en el algoritmo del perceptrón se entienden como un vector compuesto por x1, x2, x3, x4 y así sucesivamente. Todas estas entradas denotan los valores del perceptrón de características y la ocurrencia total de las características.
 
 * **Pesos**: Se observan como valores que se planifican al largo de la sesión de preparación del perceptrón. Los pesos ofrecen un valor preliminar en el inicio del aprendizaje del algoritmo. Con la ocurrencia de cada inexactitud de entrenamiento, los valores de los pesos se actualizan. Estos se representan principalmente como w1, w2, w3, w4 y así sucesivamente.
   
@@ -45,6 +45,28 @@ Aunque en principio la idea del Perceptrón tuvo una buena recepción muy promet
 
 La capacidad de proceso, la tasa de acierto, así como los patrones a analizar aumentaron cuando unos años más tarde aparecieron las redes neuronales multicapas, o perceptrón multicapa . Pero no tenemos que desmerecer el gran trabajo de Frank Rossenblatt ya que esta redes multicapas no son más que capas de muchos Perceptrón exactamente iguales al implementado en el Mark I Perceptron.
 
+La meta de Rosenbatt era crear una maquina capaz de percibir, reconocer e identificar todos sus alrededores sin que tuviera el entrenamiento explícito o el control de un humano. nada lejos de nuestra realidad actual, ¿No crees?.
+
+----
+
+## desglosando las matemáticas del perceptrón
+
+ El perceptrón realiza un mapeo que convierte unas determinadas entradas en una determinada salida.
+
+ Como viste anteriormente el conjunto entradas del perceptrón se representa con un vector X [X1, X2, X3....Xn].
+
+ El perceptrón toma estas entradas y realiza una combinación lineal de ellas. Para esto necesita un conjunto de parámetros denominados pesos W [W1, W2, W3...Wn], tras esto genera un valor intermedio denominado h que es el resultado de la multiplicación de los vectores X y los pesos W elemento por elemento.
+
+ El valor intermedio *h* pasa por una función *f* que se denomina función de activación, generando la salida *f(h)= y*
+ 
+![matematicas](https://blog.damavis.com/wp-content/uploads/2021/03/1-3.png)
+
+
+
+
+
+
 
 ## fuentes
 [Historia de la ia](https://telefonicatech.com/blog/historia-de-la-ia-frank-rosenblatt-y-e)
+[IMB 704](https://www.linkedin.com/pulse/el-ibm-704-un-hito-en-la-historia-de-computaci%C3%B3n-william-montilla-cqecf/)
