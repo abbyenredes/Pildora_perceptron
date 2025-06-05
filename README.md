@@ -31,4 +31,20 @@ Simple ¿verdad?, el perceptrón que propone Rosenbatt no es tan distinto a lo q
 * **Salida**: La suma ponderada se pasa a la función de activación y cualquier valor que obtengamos después del cálculo es nuestra salida predicha.
 
 ----
-Como observaste se mira cierta similitud y hay algo importante que recalcar antes de entrar de lleno al algoritmo
+Como observaste se mira cierta similitud y hay algo importante que recalcar antes de entrar de lleno al algoritmo.
+
+![IBM 704](https://media.licdn.com/dms/image/v2/D4D12AQFHeOtrbxjXTg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1715098892825?e=1754524800&v=beta&t=wP0s8COlMjPO4x0ZbmNvUR1POj0zCVJAOWOam0Cj490)
+
+En 1957 se implementó en un programa ( software) el funcionamiento del Perceptrón por primera vez utilizando un IBM704, fue el primer ordenador comercial (se vendieron 123 unidades) que utilizaba operaciones en coma flotante capaz de ejecutar 40.000 instrucciones por segundo (un Intel Core i7 es capaz de realizar aproximadamente más de 100.000 MIPS, millones de instrucciones por segundo). 
+
+![maquina](https://media.telefonicatech.com/telefonicatech/uploads/2021/1/1692_Capturadepantalla2018-07-19alas17.42.08.png)
+
+El Perceptrón estaba destinado a ser realmente una máquina en vez de un algoritmo y por eso finalmente se construyó el Mark I Perceptron, basado en las ideas del Perceptrón de Frank Rosenblatt. El Mark I Perceptron se dedicaba exclusivamente a la clasificación de imágenes. Todo el hardware estaba construido a medida y utilizaba potenciómetros para determinar los pesos de cada entrada por Perceptrón así como una cámara capaz de producir imágenes de 400 pixeles de resolución (20x20). En este enlace se puede encontrar el manual de operación original y en la siguiente foto se puede apreciar el panel de conexiones con las distintas combinaciones de entrada.
+
+Aunque en principio la idea del Perceptrón tuvo una buena recepción muy prometedora en los ámbitos académicos, al final se probó que no podía ser entrenado para reconocer muchos otros tipos de patrones, lo que provocó un estancamiento en el avance de las redes neuronales durante algunos años. En ese entonces el perceptróntenía una sola capa y por lo tanto sólo eran capaces de aprender datos que permitan una separación lineal . Por lo tanto, las únicas pruebas que se realizaron con este Mark I fueron entrenar al Perceptrón para que fuera capaz de reconocer imágenes, en concreto diferenciar si es hombre o mujer.
+
+La capacidad de proceso, la tasa de acierto, así como los patrones a analizar aumentaron cuando unos años más tarde aparecieron las redes neuronales multicapas, o perceptrón multicapa . Pero no tenemos que desmerecer el gran trabajo de Frank Rossenblatt ya que esta redes multicapas no son más que capas de muchos Perceptrón exactamente iguales al implementado en el Mark I Perceptron.
+
+
+## fuentes
+[Historia de la ia](https://telefonicatech.com/blog/historia-de-la-ia-frank-rosenblatt-y-e)
