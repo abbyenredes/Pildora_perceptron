@@ -24,10 +24,10 @@ Simple ¿verdad?, el perceptrón que propone Rosenbatt no es tan distinto a lo q
 * **Entrada**: El input en el algoritmo del perceptrón se entienden como un vector compuesto por x1, x2, x3, x4 y así sucesivamente. Todas estas entradas denotan los valores del perceptrón de características y la ocurrencia total de las características.
 
 * **Pesos**: Se observan como valores que se planifican al largo de la sesión de preparación del perceptrón. Los pesos ofrecen un valor preliminar en el inicio del aprendizaje del algoritmo. Con la ocurrencia de cada inexactitud de entrenamiento, los valores de los pesos se actualizan. Estos se representan principalmente como w1, w2, w3, w4 y así sucesivamente.
-  
-* **Función de activación**: Cada función de activación, o no lineal, toma un único número y realiza una determinada operación matemática fija sobre él. Hay varias funciones de activación que se pueden encontrar en la práctica, las más comunes son la Sigmoide o la ReLU o unidad lineal rectificada.
 
 * **Suma ponderada**: Es la proliferación de cada valor de entrada o característica asociada con el valor de paso correspondiente.
+  
+* **Función de activación**: Cada función de activación, o no lineal, toma un único número y realiza una determinada operación matemática fija sobre él. Hay varias funciones de activación que se pueden encontrar en la práctica, las más comunes son la Sigmoide o la ReLU o unidad lineal rectificada.
   
 * **Salida**: La suma ponderada se pasa a la función de activación y cualquier valor que obtengamos después del cálculo es nuestra salida predicha.
 
