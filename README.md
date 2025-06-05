@@ -18,6 +18,7 @@ La neurona adquiere informacion en las conexiones denominadas dendritas, las den
 ----
 
 ![perceptrón](https://media.telefonicatech.com/telefonicatech/uploads/2021/1/1692_Capturadepantalla2018-07-19alas12.45.09.png)
+
 Simple ¿verdad?, el perceptrón que propone Rosenbatt no es tan distinto a lo que acabas de leer.
 
 * **Entrada**: El input en el algoritmo del perceptrón se entienden como un vector compuesto por x1, x2, x3, x4 y así sucesivamente. Todas estas entradas denotan los valores del perceptrón de características y la ocurrencia total de las características.
