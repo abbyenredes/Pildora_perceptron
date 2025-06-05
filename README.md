@@ -7,7 +7,7 @@ Hoy nos sumergimos en el apasionante mundo del deep lerning y para empezar compr
 
 Pero como no empezar con Frank Rosenblatt considerado el padre del deep learnig, psicólogo estadounidense nacido en 1928 en New Rochelle ( Nueva York).
 
-En el año 1958 propuso el desarrollo de un autómata eléctrico cuyo funcionamiento, sobre bases radicalmente diferentes a la de los modelos computacionales de entonces. El funcionamiento de la nueva máquina se inspiraría más bien en el funcionamiento del cerebro y de los sistemas neuronales biológicos antes que en el de los ordenadores construidos hasta entonces.
+En el año 1958 propuso el desarrollo de un autómata eléctrico, sobre bases radicalmente diferentes a la de los modelos computacionales de entonces. El funcionamiento de la nueva máquina se inspiraría más bien en el funcionamiento del cerebro y de los sistemas neuronales biológicos antes que en el de los ordenadores construidos hasta entonces.
 
 ![neurona](https://media.telefonicatech.com/telefonicatech/uploads/2021/1/1692_Capturadepantalla2018-07-19alas18.05.40.png)
 
