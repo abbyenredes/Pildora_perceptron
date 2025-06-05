@@ -61,8 +61,17 @@ La meta de Rosenbatt era crear una maquina capaz de percibir, reconocer e identi
  
 ![matematicas](https://blog.damavis.com/wp-content/uploads/2021/03/1-3.png)
 
+En cuanto a la función de activación su rol principal es el de tratar de establecer si se encontro ciertas conbinaciones o un patrón en esas entradas. (si o no).
 
+Es decir si tuvieramos una imagen de entrada y quisieramos saber si en esa imagen existe un gato o no existe un gato, para ello usamos una función escalón que nos permite obtener un valor de salida 1 o 0.
 
+También puedes notar que vamos a estar convirtiendo nuestras entradas a un valor binario, para formalizar aun mas esto lo pondriamos de esta forma: *P(X): IR^n -> {0, 1}
+
+En cuanto al sesgo o bias primero recordemos lo que es una línea recta: y = mx + b
+
+*m* es la pendiente, la que nos indica como va la recta o si tiene una cierta inclinación, y para mover esa recta de ariba hacia abajo usamos el desplazamiento *b*
+
+![full formula](https://miro.medium.com/v2/resize:fit:1400/0*Ib3_FfuOy04kOmfO)
 
 
 
